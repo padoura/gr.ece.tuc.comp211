@@ -1,1 +1,7 @@
 Counting average number of disk accesses...
+Sequential search: 39000.3175
+Binary search: 15.3411
+Binary search with ordered queries: 14.4511
+Binary search with a queue in memory (size = 1): 15.3222
+Binary search with a queue in memory (size = 50): 12.9131
+Binary search with a queue in memory (size = 100): 11.9019
